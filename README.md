@@ -9,7 +9,7 @@ Hello! I'm Walu 👋
 
 
 SKILLS
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Matplotlib
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
 - Backend & Cloud: Firebase, RESTful APIs
 
